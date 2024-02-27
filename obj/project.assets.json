@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Paul Hugy\\.nuget\\packages\\": {},
+    "C:\\Users\\marc1\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Paul Hugy\\Documents\\GitHub\\TestGit\\TestGit.csproj",
+      "projectUniqueName": "C:\\Users\\marc1\\Documents\\2023-2024\\Prototypage 2023\\GitTest\\TestGit\\TestGit.csproj",
       "projectName": "TestGit",
-      "projectPath": "C:\\Users\\Paul Hugy\\Documents\\GitHub\\TestGit\\TestGit.csproj",
-      "packagesPath": "C:\\Users\\Paul Hugy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Paul Hugy\\Documents\\GitHub\\TestGit\\obj\\",
+      "projectPath": "C:\\Users\\marc1\\Documents\\2023-2024\\Prototypage 2023\\GitTest\\TestGit\\TestGit.csproj",
+      "packagesPath": "C:\\Users\\marc1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marc1\\Documents\\2023-2024\\Prototypage 2023\\GitTest\\TestGit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Paul Hugy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\marc1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
