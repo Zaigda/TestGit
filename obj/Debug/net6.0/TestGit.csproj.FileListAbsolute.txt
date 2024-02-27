@@ -1,0 +1,14 @@
+C:\Users\Paul Hugy\Documents\GitHub\TestGit\bin\Debug\net6.0\TestGit.exe
+C:\Users\Paul Hugy\Documents\GitHub\TestGit\bin\Debug\net6.0\TestGit.deps.json
+C:\Users\Paul Hugy\Documents\GitHub\TestGit\bin\Debug\net6.0\TestGit.runtimeconfig.json
+C:\Users\Paul Hugy\Documents\GitHub\TestGit\bin\Debug\net6.0\TestGit.dll
+C:\Users\Paul Hugy\Documents\GitHub\TestGit\bin\Debug\net6.0\TestGit.pdb
+C:\Users\Paul Hugy\Documents\GitHub\TestGit\obj\Debug\net6.0\TestGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul Hugy\Documents\GitHub\TestGit\obj\Debug\net6.0\TestGit.AssemblyInfoInputs.cache
+C:\Users\Paul Hugy\Documents\GitHub\TestGit\obj\Debug\net6.0\TestGit.AssemblyInfo.cs
+C:\Users\Paul Hugy\Documents\GitHub\TestGit\obj\Debug\net6.0\TestGit.csproj.CoreCompileInputs.cache
+C:\Users\Paul Hugy\Documents\GitHub\TestGit\obj\Debug\net6.0\TestGit.dll
+C:\Users\Paul Hugy\Documents\GitHub\TestGit\obj\Debug\net6.0\refint\TestGit.dll
+C:\Users\Paul Hugy\Documents\GitHub\TestGit\obj\Debug\net6.0\TestGit.pdb
+C:\Users\Paul Hugy\Documents\GitHub\TestGit\obj\Debug\net6.0\TestGit.genruntimeconfig.cache
+C:\Users\Paul Hugy\Documents\GitHub\TestGit\obj\Debug\net6.0\ref\TestGit.dll
